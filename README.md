@@ -1,5 +1,4 @@
-# TradeFlow
-🚀 A modern, responsive fintech landing page built with HTML5 &amp; CSS3, featuring a premium UI, glassmorphism, gradients, responsive design, and interactive components inspired by modern fintech platforms.
+ 
 # 🚀 TradeFlow – Premium Fintech Landing Page
 
 TradeFlow is a modern, responsive fintech landing page designed using **HTML5** and **CSS3**. The project focuses on creating a premium user experience with a clean interface, modern layouts, gradients, glassmorphism effects, and responsive design.
